@@ -152,36 +152,36 @@
   </ui>
   <groups attack="0.000" attackCurve="50" decayCurve="100" releaseCurve="100" decay="0" sustain="1" release="0.07" volume="1" ampVelTrack="0">
     <group tags="normal-speed">
-      <sample loNote="79" hiNote="79" rootNote="79"    path="Samples/NormalSPeed/NormalSpeed_4G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="80" hiNote="80" rootNote="80"    path="Samples/NormalSPeed/NormalSpeed_4G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="81" hiNote="81" rootNote="81"    path="Samples/NormalSPeed/NormalSpeed_4A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="82" hiNote="82" rootNote="82"    path="Samples/NormalSPeed/NormalSpeed_4A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="83" hiNote="83" rootNote="83"    path="Samples/NormalSPeed/NormalSpeed_4B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="84" hiNote="84" rootNote="84"    path="Samples/NormalSPeed/NormalSpeed_5C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="85" hiNote="85" rootNote="85"    path="Samples/NormalSPeed/NormalSpeed_5C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="86" hiNote="86" rootNote="86"    path="Samples/NormalSPeed/NormalSpeed_5D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="87" hiNote="87" rootNote="87"    path="Samples/NormalSPeed/NormalSpeed_5D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="88" hiNote="88" rootNote="88"    path="Samples/NormalSPeed/NormalSpeed_5E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="89" hiNote="89" rootNote="89"    path="Samples/NormalSPeed/NormalSpeed_5F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="90" hiNote="90" rootNote="90"    path="Samples/NormalSPeed/NormalSpeed_5F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="91" hiNote="91" rootNote="91"    path="Samples/NormalSPeed/NormalSpeed_5G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="92" hiNote="92" rootNote="92"    path="Samples/NormalSPeed/NormalSpeed_5G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="93" hiNote="93" rootNote="93"    path="Samples/NormalSPeed/NormalSpeed_5A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="94" hiNote="94" rootNote="94"    path="Samples/NormalSPeed/NormalSpeed_5A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="95" hiNote="95" rootNote="95"    path="Samples/NormalSPeed/NormalSpeed_5B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="96" hiNote="96" rootNote="96"    path="Samples/NormalSPeed/NormalSpeed_6C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="97" hiNote="97" rootNote="97"    path="Samples/NormalSPeed/NormalSpeed_6C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="98" hiNote="98" rootNote="98"    path="Samples/NormalSPeed/NormalSpeed_6D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="99" hiNote="99" rootNote="99"    path="Samples/NormalSPeed/NormalSpeed_6D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="100" hiNote="100" rootNote="100" path="Samples/NormalSPeed/NormalSpeed_6E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="101" hiNote="101" rootNote="101" path="Samples/NormalSPeed/NormalSpeed_6F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="102" hiNote="102" rootNote="102" path="Samples/NormalSPeed/NormalSpeed_6F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="103" hiNote="103" rootNote="103" path="Samples/NormalSPeed/NormalSpeed_6G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="104" hiNote="104" rootNote="104" path="Samples/NormalSPeed/NormalSpeed_6G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="105" hiNote="105" rootNote="105" path="Samples/NormalSPeed/NormalSpeed_6A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="106" hiNote="106" rootNote="106" path="Samples/NormalSPeed/NormalSpeed_6A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="107" hiNote="107" rootNote="107" path="Samples/NormalSPeed/NormalSpeed_6B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="108" hiNote="108" rootNote="108" path="Samples/NormalSPeed/NormalSpeed_7C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="79" hiNote="79" rootNote="79"    path="Samples/NormalSpeed/NormalSpeed_4G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="80" hiNote="80" rootNote="80"    path="Samples/NormalSpeed/NormalSpeed_4G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="81" hiNote="81" rootNote="81"    path="Samples/NormalSpeed/NormalSpeed_4A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="82" hiNote="82" rootNote="82"    path="Samples/NormalSpeed/NormalSpeed_4A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="83" hiNote="83" rootNote="83"    path="Samples/NormalSpeed/NormalSpeed_4B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="84" hiNote="84" rootNote="84"    path="Samples/NormalSpeed/NormalSpeed_5C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="85" hiNote="85" rootNote="85"    path="Samples/NormalSpeed/NormalSpeed_5C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="86" hiNote="86" rootNote="86"    path="Samples/NormalSpeed/NormalSpeed_5D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="87" hiNote="87" rootNote="87"    path="Samples/NormalSpeed/NormalSpeed_5D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="88" hiNote="88" rootNote="88"    path="Samples/NormalSpeed/NormalSpeed_5E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="89" hiNote="89" rootNote="89"    path="Samples/NormalSpeed/NormalSpeed_5F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="90" hiNote="90" rootNote="90"    path="Samples/NormalSpeed/NormalSpeed_5F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="91" hiNote="91" rootNote="91"    path="Samples/NormalSpeed/NormalSpeed_5G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="92" hiNote="92" rootNote="92"    path="Samples/NormalSpeed/NormalSpeed_5G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="93" hiNote="93" rootNote="93"    path="Samples/NormalSpeed/NormalSpeed_5A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="94" hiNote="94" rootNote="94"    path="Samples/NormalSpeed/NormalSpeed_5A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="95" hiNote="95" rootNote="95"    path="Samples/NormalSpeed/NormalSpeed_5B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="96" hiNote="96" rootNote="96"    path="Samples/NormalSpeed/NormalSpeed_6C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="97" hiNote="97" rootNote="97"    path="Samples/NormalSpeed/NormalSpeed_6C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="98" hiNote="98" rootNote="98"    path="Samples/NormalSpeed/NormalSpeed_6D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="99" hiNote="99" rootNote="99"    path="Samples/NormalSpeed/NormalSpeed_6D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="100" hiNote="100" rootNote="100" path="Samples/NormalSpeed/NormalSpeed_6E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="101" hiNote="101" rootNote="101" path="Samples/NormalSpeed/NormalSpeed_6F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="102" hiNote="102" rootNote="102" path="Samples/NormalSpeed/NormalSpeed_6F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="103" hiNote="103" rootNote="103" path="Samples/NormalSpeed/NormalSpeed_6G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="104" hiNote="104" rootNote="104" path="Samples/NormalSpeed/NormalSpeed_6G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="105" hiNote="105" rootNote="105" path="Samples/NormalSpeed/NormalSpeed_6A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="106" hiNote="106" rootNote="106" path="Samples/NormalSpeed/NormalSpeed_6A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="107" hiNote="107" rootNote="107" path="Samples/NormalSpeed/NormalSpeed_6B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="108" hiNote="108" rootNote="108" path="Samples/NormalSpeed/NormalSpeed_7C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
     </group>
 
     <group tags="half-speed">
@@ -203,18 +203,18 @@
       <sample loNote="94" hiNote="94" rootNote="94"    path="Samples/HalfSpeed/HalfSpeed_4A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
       <sample loNote="95" hiNote="95" rootNote="95"    path="Samples/HalfSpeed/HalfSpeed_4B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
       <sample loNote="96" hiNote="96" rootNote="96"    path="Samples/HalfSpeed/HalfSpeed_5C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="97" hiNote="97" rootNote="97"    path="Samples/HalfSPeed/HalfSpeed_5C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="98" hiNote="98" rootNote="98"    path="Samples/HalfSPeed/HalfSpeed_5D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="99" hiNote="99" rootNote="99"    path="Samples/HalfSPeed/HalfSpeed_5D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="100" hiNote="100" rootNote="100" path="Samples/HalfSPeed/HalfSpeed_5E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="101" hiNote="101" rootNote="101" path="Samples/HalfSPeed/HalfSpeed_5F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="102" hiNote="102" rootNote="102" path="Samples/HalfSPeed/HalfSpeed_5F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="103" hiNote="103" rootNote="103" path="Samples/HalfSPeed/HalfSpeed_5G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="104" hiNote="104" rootNote="104" path="Samples/HalfSPeed/HalfSpeed_5G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="105" hiNote="105" rootNote="105" path="Samples/HalfSPeed/HalfSpeed_5A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="106" hiNote="106" rootNote="106" path="Samples/HalfSPeed/HalfSpeed_5A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="107" hiNote="107" rootNote="107" path="Samples/HalfSPeed/HalfSpeed_5B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
-      <sample loNote="108" hiNote="108" rootNote="108" path="Samples/HalfSPeed/HalfSpeed_6C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="97" hiNote="97" rootNote="97"    path="Samples/HalfSpeed/HalfSpeed_5C#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="98" hiNote="98" rootNote="98"    path="Samples/HalfSpeed/HalfSpeed_5D.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="99" hiNote="99" rootNote="99"    path="Samples/HalfSpeed/HalfSpeed_5D#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="100" hiNote="100" rootNote="100" path="Samples/HalfSpeed/HalfSpeed_5E.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="101" hiNote="101" rootNote="101" path="Samples/HalfSpeed/HalfSpeed_5F.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="102" hiNote="102" rootNote="102" path="Samples/HalfSpeed/HalfSpeed_5F#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="103" hiNote="103" rootNote="103" path="Samples/HalfSpeed/HalfSpeed_5G.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="104" hiNote="104" rootNote="104" path="Samples/HalfSpeed/HalfSpeed_5G#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="105" hiNote="105" rootNote="105" path="Samples/HalfSpeed/HalfSpeed_5A.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="106" hiNote="106" rootNote="106" path="Samples/HalfSpeed/HalfSpeed_5A#.wav" sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="107" hiNote="107" rootNote="107" path="Samples/HalfSpeed/HalfSpeed_5B.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
+      <sample loNote="108" hiNote="108" rootNote="108" path="Samples/HalfSpeed/HalfSpeed_6C.wav"  sampleRate="48000.0" pitchKeyTrack="1" loopEnabled="0"/>
     </group>
   </groups>
   <effects>
