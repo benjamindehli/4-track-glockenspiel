@@ -1,6 +1,6 @@
 # 4-track Glockenspiel - Version: [1.2]
 
-Date: 2023-11-13
+Date: 2024-03-18
 Name: Benjamin Dehli
 Profile: pianobook.co.uk/profile/benjamindehli
 
@@ -10,13 +10,19 @@ Profile: pianobook.co.uk/profile/benjamindehli
 
 ## Release notes
 
-### Version 1.2
+### Version 1.2 (2024-03-18)
 
+- Tremolo depth can now be controlled by the modulation wheel
+- Improved impulse responses for echo and reverb
 - Added a "Layered (Pitch Stretched)" preset.
 
-### Version 1.1
+### Version 1.1 (2023-08-29)
 
 - Fixed typo (wrong casing) in the directory name for some samples, which caused the samples not to load on some devices.
+
+### Version 1.0 (2023-08-19)
+
+- First version released
 
 ## Description
 
