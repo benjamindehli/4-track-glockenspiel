@@ -1,16 +1,20 @@
-# 4-track Glockenspiel - Version: [1.2]
+# 4-track Glockenspiel - Version: [1.3]
 
-Date: 2024-03-18
+Date: 2025-01-04
 
 Name: Benjamin Dehli
 
-Profile: [pianobook.co.uk/profile/benjamindehli](https://www.pianobook.co.uk/profile/benjamindehli/)
+Profile: [store.dehlimusikk.no][Gumroad profile]
 
 ## Included formats
 
 - Decent Sampler
 
 ## Release notes
+
+### Version 1.3 (2025-01-04)
+
+- Removed amplitude envelope for one shot samples
 
 ### Version 1.2 (2024-03-18)
 
@@ -129,3 +133,5 @@ When the **hi-fi** switch is turned on, no effects are applied. When it's turned
 
 - Hi-fi
   - Turns the lo-fi effects on and off
+
+[Gumroad profile]: https://store.dehlimusikk.no/
