@@ -17,7 +17,7 @@ Profile: [store.dehlimusikk.no][Gumroad profile]
 - **Velocity button**: Swapped state names so `velocity_off` shows the off-switch and disables velocity, `velocity_on` shows the on-switch.
 - **Hi-Fi button**: corrected images so `hi-fi_on` shows the on-switch and `hi-fi_off` shows the off-switch.
 - **Wave shaper**: Initial `drive/outputLevel` updated to `1/1` to match the default `hi-fi-off` state (were `4.11`/`0.13`).
-- **LFO**: Redundant `position="1"` removed from the instrument-level `AMP_VOLUME` binding
+- **LFO**: Redundant `position="1"` removed from the instrument-level `AMP_VOLUME` binding.
 - **Echo/reverb mix**: Bindings changed from `position=` to `effectIndex=` to match the on/off button bindings.
 - **Pitch Stretched (half-speed groups)**: Added the missing pitch-stretched range (notes 49–78 → rootNotes 79–108) to both `sustained` and `damped` half-speed groups.
 
