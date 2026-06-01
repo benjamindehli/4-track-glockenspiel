@@ -1,6 +1,6 @@
-# 4-track Glockenspiel - Version: [1.3]
+# 4-track Glockenspiel - Version: [1.4]
 
-Date: 2025-01-04
+Date: 2026-06-01
 
 Name: Benjamin Dehli
 
@@ -12,14 +12,23 @@ Profile: [store.dehlimusikk.no][Gumroad profile]
 
 ## Release notes
 
+### Version 1.4 (2026-06-01)
+
+- **Velocity button**: Swapped state names so `velocity_off` shows the off-switch and disables velocity, `velocity_on` shows the on-switch.
+- **Hi-Fi button**: corrected images so `hi-fi_on` shows the on-switch and `hi-fi_off` shows the off-switch.
+- **Wave shaper**: Initial `drive/outputLevel` updated to `1/1` to match the default `hi-fi-off` state (were `4.11`/`0.13`).
+- **LFO**: Redundant `position="1"` removed from the instrument-level `AMP_VOLUME` binding
+- **Echo/reverb mix**: Bindings changed from `position=` to `effectIndex=` to match the on/off button bindings.
+- **Pitch Stretched (half-speed groups)**: Added the missing pitch-stretched range (notes 49–78 → rootNotes 79–108) to both `sustained` and `damped` half-speed groups.
+
 ### Version 1.3 (2025-01-04)
 
-- Removed amplitude envelope for one shot samples
+- Removed amplitude envelope for one shot samples.
 
 ### Version 1.2 (2024-03-18)
 
-- Tremolo depth can now be controlled by the modulation wheel
-- Improved impulse responses for echo and reverb
+- Tremolo depth can now be controlled by the modulation wheel.
+- Improved impulse responses for echo and reverb.
 - Added a "Layered (Pitch Stretched)" preset.
 
 ### Version 1.1 (2023-08-29)
@@ -28,7 +37,7 @@ Profile: [store.dehlimusikk.no][Gumroad profile]
 
 ### Version 1.0 (2023-08-19)
 
-- First version released
+- First version released.
 
 ## Description
 
