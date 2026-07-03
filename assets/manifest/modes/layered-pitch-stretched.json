@@ -19,6 +19,447 @@
       "samples": [
         {
           "source": "flac:NormalSpeed_4G",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 79,
+          "lengthFrames": 202599,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 80,
+          "lengthFrames": 260456,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 81,
+          "lengthFrames": 280218,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 82,
+          "lengthFrames": 232296,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 83,
+          "lengthFrames": 240994,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 84,
+          "lengthFrames": 290560,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 85,
+          "lengthFrames": 271507,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 86,
+          "lengthFrames": 235636,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 87,
+          "lengthFrames": 276470,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 88,
+          "lengthFrames": 262357,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 89,
+          "lengthFrames": 239763,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 79,
+          "lengthFrames": 202599,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 80,
+          "lengthFrames": 260456,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 81,
+          "lengthFrames": 280218,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 82,
+          "lengthFrames": 232296,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 83,
+          "lengthFrames": 240994,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 84,
+          "lengthFrames": 290560,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 85,
+          "lengthFrames": 271507,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 86,
+          "lengthFrames": 235636,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 87,
+          "lengthFrames": 276470,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 88,
+          "lengthFrames": 262357,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 89,
+          "lengthFrames": 239763,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 98,
+          "lengthFrames": 155167,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D#",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 99,
+          "lengthFrames": 176971,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6E",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 100,
+          "lengthFrames": 205138,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 101,
+          "lengthFrames": 177233,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 102,
+          "lengthFrames": 150446,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 103,
+          "lengthFrames": 151055,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G#",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 104,
+          "lengthFrames": 149074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 105,
+          "lengthFrames": 144954,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A#",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 106,
+          "lengthFrames": 158871,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6B",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 107,
+          "lengthFrames": 147406,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_7C",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 108,
+          "lengthFrames": 166071,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
           "loNote": 49,
           "hiNote": 49,
           "rootNote": 79,
@@ -552,6 +993,177 @@
           "source": "flac:NormalSpeed_7C",
           "loNote": 108,
           "hiNote": 108,
+          "rootNote": 108,
+          "lengthFrames": 166071,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 98,
+          "lengthFrames": 155167,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 99,
+          "lengthFrames": 176971,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6E",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 100,
+          "lengthFrames": 205138,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 101,
+          "lengthFrames": 177233,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F#",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 102,
+          "lengthFrames": 150446,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 103,
+          "lengthFrames": 151055,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 104,
+          "lengthFrames": 149074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 105,
+          "lengthFrames": 144954,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A#",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 106,
+          "lengthFrames": 158871,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6B",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 107,
+          "lengthFrames": 147406,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_7C",
+          "loNote": 127,
+          "hiNote": 127,
           "rootNote": 108,
           "lengthFrames": 166071,
           "sampleRate": 48000.0,
@@ -568,6 +1180,447 @@
       "samples": [
         {
           "source": "flac:HalfSpeed_3G",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 79,
+          "lengthFrames": 295693,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 80,
+          "lengthFrames": 384669,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 81,
+          "lengthFrames": 437356,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 82,
+          "lengthFrames": 375615,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 83,
+          "lengthFrames": 396053,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 84,
+          "lengthFrames": 530882,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 85,
+          "lengthFrames": 448025,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 86,
+          "lengthFrames": 372195,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 87,
+          "lengthFrames": 472214,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 88,
+          "lengthFrames": 478766,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 89,
+          "lengthFrames": 454632,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 79,
+          "lengthFrames": 295693,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 80,
+          "lengthFrames": 384669,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 81,
+          "lengthFrames": 437356,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 82,
+          "lengthFrames": 375615,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 83,
+          "lengthFrames": 396053,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 84,
+          "lengthFrames": 530882,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 85,
+          "lengthFrames": 448025,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 86,
+          "lengthFrames": 372195,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 87,
+          "lengthFrames": 472214,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 88,
+          "lengthFrames": 478766,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 89,
+          "lengthFrames": 454632,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 98,
+          "lengthFrames": 216746,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D#",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 99,
+          "lengthFrames": 252288,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5E",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 100,
+          "lengthFrames": 218069,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 101,
+          "lengthFrames": 209287,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 102,
+          "lengthFrames": 205593,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 103,
+          "lengthFrames": 210735,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G#",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 104,
+          "lengthFrames": 190618,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 105,
+          "lengthFrames": 191995,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A#",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 106,
+          "lengthFrames": 187090,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5B",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 107,
+          "lengthFrames": 198635,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_6C",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 108,
+          "lengthFrames": 201396,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
           "loNote": 49,
           "hiNote": 49,
           "rootNote": 79,
@@ -1101,6 +2154,177 @@
           "source": "flac:HalfSpeed_6C",
           "loNote": 108,
           "hiNote": 108,
+          "rootNote": 108,
+          "lengthFrames": 201396,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 98,
+          "lengthFrames": 216746,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 99,
+          "lengthFrames": 252288,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5E",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 100,
+          "lengthFrames": 218069,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 101,
+          "lengthFrames": 209287,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F#",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 102,
+          "lengthFrames": 205593,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 103,
+          "lengthFrames": 210735,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 104,
+          "lengthFrames": 190618,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 105,
+          "lengthFrames": 191995,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A#",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 106,
+          "lengthFrames": 187090,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5B",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 107,
+          "lengthFrames": 198635,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_6C",
+          "loNote": 127,
+          "hiNote": 127,
           "rootNote": 108,
           "lengthFrames": 201396,
           "sampleRate": 48000.0,
@@ -1116,6 +2340,447 @@
       "samples": [
         {
           "source": "flac:NormalSpeed_4G",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 79,
+          "lengthFrames": 202599,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 80,
+          "lengthFrames": 260456,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 81,
+          "lengthFrames": 280218,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 82,
+          "lengthFrames": 232296,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 83,
+          "lengthFrames": 240994,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 84,
+          "lengthFrames": 290560,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 85,
+          "lengthFrames": 271507,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 86,
+          "lengthFrames": 235636,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 87,
+          "lengthFrames": 276470,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 88,
+          "lengthFrames": 262357,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 89,
+          "lengthFrames": 239763,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 79,
+          "lengthFrames": 202599,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G#",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 80,
+          "lengthFrames": 260456,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 81,
+          "lengthFrames": 280218,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4A#",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 82,
+          "lengthFrames": 232296,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4B",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 83,
+          "lengthFrames": 240994,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 84,
+          "lengthFrames": 290560,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5C#",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 85,
+          "lengthFrames": 271507,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 86,
+          "lengthFrames": 235636,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5D#",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 87,
+          "lengthFrames": 276470,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5E",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 88,
+          "lengthFrames": 262357,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 89,
+          "lengthFrames": 239763,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 98,
+          "lengthFrames": 155167,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D#",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 99,
+          "lengthFrames": 176971,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6E",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 100,
+          "lengthFrames": 205138,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 101,
+          "lengthFrames": 177233,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 102,
+          "lengthFrames": 150446,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 103,
+          "lengthFrames": 151055,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G#",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 104,
+          "lengthFrames": 149074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 105,
+          "lengthFrames": 144954,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A#",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 106,
+          "lengthFrames": 158871,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6B",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 107,
+          "lengthFrames": 147406,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_7C",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 108,
+          "lengthFrames": 166071,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_4G",
           "loNote": 49,
           "hiNote": 49,
           "rootNote": 79,
@@ -1653,6 +3318,177 @@
           "lengthFrames": 166071,
           "sampleRate": 48000.0,
           "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5F#",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 90,
+          "lengthFrames": 184485,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 91,
+          "lengthFrames": 180366,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5G#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 92,
+          "lengthFrames": 193776,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 93,
+          "lengthFrames": 182283,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5A#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 94,
+          "lengthFrames": 214196,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_5B",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 95,
+          "lengthFrames": 178404,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 96,
+          "lengthFrames": 204488,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6C#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 97,
+          "lengthFrames": 198318,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 98,
+          "lengthFrames": 155167,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6D#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 99,
+          "lengthFrames": 176971,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6E",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 100,
+          "lengthFrames": 205138,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 101,
+          "lengthFrames": 177233,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6F#",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 102,
+          "lengthFrames": 150446,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 103,
+          "lengthFrames": 151055,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6G#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 104,
+          "lengthFrames": 149074,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 105,
+          "lengthFrames": 144954,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6A#",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 106,
+          "lengthFrames": 158871,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_6B",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 107,
+          "lengthFrames": 147406,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:NormalSpeed_7C",
+          "loNote": 127,
+          "hiNote": 127,
+          "rootNote": 108,
+          "lengthFrames": 166071,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
         }
       ]
     },
@@ -1662,6 +3498,447 @@
         "damped"
       ],
       "samples": [
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 0,
+          "hiNote": 0,
+          "rootNote": 79,
+          "lengthFrames": 295693,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 1,
+          "hiNote": 1,
+          "rootNote": 80,
+          "lengthFrames": 384669,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 2,
+          "hiNote": 2,
+          "rootNote": 81,
+          "lengthFrames": 437356,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 3,
+          "hiNote": 3,
+          "rootNote": 82,
+          "lengthFrames": 375615,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 4,
+          "hiNote": 4,
+          "rootNote": 83,
+          "lengthFrames": 396053,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 5,
+          "hiNote": 5,
+          "rootNote": 84,
+          "lengthFrames": 530882,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 6,
+          "hiNote": 6,
+          "rootNote": 85,
+          "lengthFrames": 448025,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 7,
+          "hiNote": 7,
+          "rootNote": 86,
+          "lengthFrames": 372195,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 8,
+          "hiNote": 8,
+          "rootNote": 87,
+          "lengthFrames": 472214,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 9,
+          "hiNote": 9,
+          "rootNote": 88,
+          "lengthFrames": 478766,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 10,
+          "hiNote": 10,
+          "rootNote": 89,
+          "lengthFrames": 454632,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 11,
+          "hiNote": 11,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 12,
+          "hiNote": 12,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 13,
+          "hiNote": 13,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 14,
+          "hiNote": 14,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 15,
+          "hiNote": 15,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 16,
+          "hiNote": 16,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 17,
+          "hiNote": 17,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 18,
+          "hiNote": 18,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G",
+          "loNote": 19,
+          "hiNote": 19,
+          "rootNote": 79,
+          "lengthFrames": 295693,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3G#",
+          "loNote": 20,
+          "hiNote": 20,
+          "rootNote": 80,
+          "lengthFrames": 384669,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A",
+          "loNote": 21,
+          "hiNote": 21,
+          "rootNote": 81,
+          "lengthFrames": 437356,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3A#",
+          "loNote": 22,
+          "hiNote": 22,
+          "rootNote": 82,
+          "lengthFrames": 375615,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_3B",
+          "loNote": 23,
+          "hiNote": 23,
+          "rootNote": 83,
+          "lengthFrames": 396053,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C",
+          "loNote": 24,
+          "hiNote": 24,
+          "rootNote": 84,
+          "lengthFrames": 530882,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4C#",
+          "loNote": 25,
+          "hiNote": 25,
+          "rootNote": 85,
+          "lengthFrames": 448025,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D",
+          "loNote": 26,
+          "hiNote": 26,
+          "rootNote": 86,
+          "lengthFrames": 372195,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4D#",
+          "loNote": 27,
+          "hiNote": 27,
+          "rootNote": 87,
+          "lengthFrames": 472214,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4E",
+          "loNote": 28,
+          "hiNote": 28,
+          "rootNote": 88,
+          "lengthFrames": 478766,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F",
+          "loNote": 29,
+          "hiNote": 29,
+          "rootNote": 89,
+          "lengthFrames": 454632,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 30,
+          "hiNote": 30,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 31,
+          "hiNote": 31,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 32,
+          "hiNote": 32,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 33,
+          "hiNote": 33,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 34,
+          "hiNote": 34,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 35,
+          "hiNote": 35,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 36,
+          "hiNote": 36,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 37,
+          "hiNote": 37,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D",
+          "loNote": 38,
+          "hiNote": 38,
+          "rootNote": 98,
+          "lengthFrames": 216746,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D#",
+          "loNote": 39,
+          "hiNote": 39,
+          "rootNote": 99,
+          "lengthFrames": 252288,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5E",
+          "loNote": 40,
+          "hiNote": 40,
+          "rootNote": 100,
+          "lengthFrames": 218069,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F",
+          "loNote": 41,
+          "hiNote": 41,
+          "rootNote": 101,
+          "lengthFrames": 209287,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F#",
+          "loNote": 42,
+          "hiNote": 42,
+          "rootNote": 102,
+          "lengthFrames": 205593,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G",
+          "loNote": 43,
+          "hiNote": 43,
+          "rootNote": 103,
+          "lengthFrames": 210735,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G#",
+          "loNote": 44,
+          "hiNote": 44,
+          "rootNote": 104,
+          "lengthFrames": 190618,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A",
+          "loNote": 45,
+          "hiNote": 45,
+          "rootNote": 105,
+          "lengthFrames": 191995,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A#",
+          "loNote": 46,
+          "hiNote": 46,
+          "rootNote": 106,
+          "lengthFrames": 187090,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5B",
+          "loNote": 47,
+          "hiNote": 47,
+          "rootNote": 107,
+          "lengthFrames": 198635,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_6C",
+          "loNote": 48,
+          "hiNote": 48,
+          "rootNote": 108,
+          "lengthFrames": 201396,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
         {
           "source": "flac:HalfSpeed_3G",
           "loNote": 49,
@@ -2197,6 +4474,177 @@
           "source": "flac:HalfSpeed_6C",
           "loNote": 108,
           "hiNote": 108,
+          "rootNote": 108,
+          "lengthFrames": 201396,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4F#",
+          "loNote": 109,
+          "hiNote": 109,
+          "rootNote": 90,
+          "lengthFrames": 349667,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G",
+          "loNote": 110,
+          "hiNote": 110,
+          "rootNote": 91,
+          "lengthFrames": 362963,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4G#",
+          "loNote": 111,
+          "hiNote": 111,
+          "rootNote": 92,
+          "lengthFrames": 374272,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A",
+          "loNote": 112,
+          "hiNote": 112,
+          "rootNote": 93,
+          "lengthFrames": 347553,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4A#",
+          "loNote": 113,
+          "hiNote": 113,
+          "rootNote": 94,
+          "lengthFrames": 353806,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_4B",
+          "loNote": 114,
+          "hiNote": 114,
+          "rootNote": 95,
+          "lengthFrames": 254829,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C",
+          "loNote": 115,
+          "hiNote": 115,
+          "rootNote": 96,
+          "lengthFrames": 237098,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5C#",
+          "loNote": 116,
+          "hiNote": 116,
+          "rootNote": 97,
+          "lengthFrames": 242136,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D",
+          "loNote": 117,
+          "hiNote": 117,
+          "rootNote": 98,
+          "lengthFrames": 216746,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5D#",
+          "loNote": 118,
+          "hiNote": 118,
+          "rootNote": 99,
+          "lengthFrames": 252288,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5E",
+          "loNote": 119,
+          "hiNote": 119,
+          "rootNote": 100,
+          "lengthFrames": 218069,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F",
+          "loNote": 120,
+          "hiNote": 120,
+          "rootNote": 101,
+          "lengthFrames": 209287,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5F#",
+          "loNote": 121,
+          "hiNote": 121,
+          "rootNote": 102,
+          "lengthFrames": 205593,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G",
+          "loNote": 122,
+          "hiNote": 122,
+          "rootNote": 103,
+          "lengthFrames": 210735,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5G#",
+          "loNote": 123,
+          "hiNote": 123,
+          "rootNote": 104,
+          "lengthFrames": 190618,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A",
+          "loNote": 124,
+          "hiNote": 124,
+          "rootNote": 105,
+          "lengthFrames": 191995,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5A#",
+          "loNote": 125,
+          "hiNote": 125,
+          "rootNote": 106,
+          "lengthFrames": 187090,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_5B",
+          "loNote": 126,
+          "hiNote": 126,
+          "rootNote": 107,
+          "lengthFrames": 198635,
+          "sampleRate": 48000.0,
+          "pitchKeyTrack": true
+        },
+        {
+          "source": "flac:HalfSpeed_6C",
+          "loNote": 127,
+          "hiNote": 127,
           "rootNote": 108,
           "lengthFrames": 201396,
           "sampleRate": 48000.0,
