@@ -1,0 +1,146 @@
+# 4-track Glockenspiel - Version: [1.4]
+
+Date: 2026-06-01
+
+Name: Benjamin Dehli
+
+Profile: [store.dehlimusikk.no][Gumroad profile]
+
+## Included formats
+
+- Decent Sampler
+
+## Release notes
+
+### Version 1.4 (2026-06-01)
+
+- **Velocity button**: Swapped state names so `velocity_off` shows the off-switch and disables velocity, `velocity_on` shows the on-switch.
+- **Hi-Fi button**: corrected images so `hi-fi_on` shows the on-switch and `hi-fi_off` shows the off-switch.
+- **Wave shaper**: Initial `drive/outputLevel` updated to `1/1` to match the default `hi-fi-off` state (were `4.11`/`0.13`).
+- **LFO**: Redundant `position="1"` removed from the instrument-level `AMP_VOLUME` binding.
+- **Echo/reverb mix**: Bindings changed from `position=` to `effectIndex=` to match the on/off button bindings.
+- **Pitch Stretched (half-speed groups)**: Added the missing pitch-stretched range (notes 49–78 → rootNotes 79–108) to both `sustained` and `damped` half-speed groups.
+
+### Version 1.3 (2025-01-04)
+
+- Removed amplitude envelope for one shot samples.
+
+### Version 1.2 (2024-03-18)
+
+- Tremolo depth can now be controlled by the modulation wheel.
+- Improved impulse responses for echo and reverb.
+- Added a "Layered (Pitch Stretched)" preset.
+
+### Version 1.1 (2023-08-29)
+
+- Fixed typo (wrong casing) in the directory name for some samples, which caused the samples not to load on some devices.
+
+### Version 1.0 (2023-08-19)
+
+- First version released.
+
+## Description
+
+A glockenspiel recorded on to cassette tape and played back at half speed and normal/original speed. Playing back at half speed results in an octave lower pitch.
+
+## Technical specification
+
+|                       | Sample rate | Bit depth | Channels   | Number of files | File size |
+|----------------------:|------------:|----------:|------------|----------------:|----------:|
+|           **Samples** |      48 kHz |    24 bit | 2 (stereo) |              60 |  93.60 MB |
+| **Impulse responses** |      48 kHz |    24 bit | 2 (stereo) |               4 |   3.60 MB |
+
+## Instrument presets
+
+- Layered
+  - Normal speed samples and half speed samples are assigned to the same part of the keyboard.
+- Split
+  - Normal speed samples and half speed samples are assigned to different parts of the keyboard.
+
+## User Interface
+
+|![Overview](/Screenshots/4-track-glockenspiel.png)|
+|:--:|
+|Overview|
+
+### Instrument
+
+|![Button controls for the instrument settings](/Screenshots/instrument.png)|
+|:--:|
+|Button controls for the instrument settings|
+
+#### Velocity and damping
+
+- Velocity
+  - Determines whether the velocity should affect the volume of the samples
+- Damping
+  - When damping is off, the sample will continue to play after you release the key (like a glockenspiel)
+  - When damping is on, the sample will fade out quickly after you release the key
+
+### Mixer
+
+|![LFO controls](/Screenshots/mixer.png)|
+|:--:|
+|Mixer controls|
+
+#### Volume
+
+Mix between the normal speed samples and the half speed samples. They also have independent tremolo controls.
+
+#### Tremolo
+
+The **tremolo rate** and **tremolo depth** knobs enable you to modulate the amplitude of the sound with the desired depth and rate using a Low-Frequency Oscillator (LFO).
+
+- Tremolo Rate
+  - Tremolo rate determines the speed at which the modulation occurs
+- Tremolo Depth
+  - Adjust the Tremolo depth to introduce subtle or pronounced variations in volume
+
+### Effects
+
+These effects are achieved using carefully crafted impulse responses. The echo effect employs a Fulltone Tube Tape Echo recorded twice for stereo, while the reverb effect draws from a Chase Bliss Audio & Meris CXM 1978 reverb pedal with a room setting.
+
+#### Echo
+
+|![Controls for the tape echo impulse response](/Screenshots/echo.png)|
+|:--:|
+|Controls for the tape echo impulse response|
+
+Select from two distinctive echo options: the short echo, delivering a classic slapback effect, and the long echo, characterized by a slower decay and numerous repeats.
+
+- On
+  - Turns the echo on and off
+- Long
+  - Switches between a short slapback echo and a long echo with slow repeats and high feedback
+- Mix
+  - Mix between direct signal and echo signal
+
+#### Reverb
+
+|![Controls for the room reverb impulse response](/Screenshots/reverb.png)|
+|:--:|
+|Controls for the room reverb impulse response|
+
+You'll also find two reverb effects: the short reverb, evoking the intimacy of a small room, and the long reverb, enveloping your sound in the vastness of a spacious environment.
+
+- On
+  - Turns the reverb on and off
+- Long
+  - Switches between a short/small room reverb and a long/big room reverb
+- Mix
+  - Mix between direct signal and reverb signal
+
+### Fidelity
+
+|![Controls for the fidelity settings](/Screenshots/fidelity.png)|
+|:--:|
+|Controls for the fidelity settings|
+
+#### Hi-fi
+
+When the **hi-fi** switch is turned on, no effects are applied. When it's turned off, some filtering, saturation and modulation are added for a lo-fi effect. The saturation becomes more pronounced when you turn up the volume in the mixer section.
+
+- Hi-fi
+  - Turns the lo-fi effects on and off
+
+[Gumroad profile]: https://store.dehlimusikk.no/
