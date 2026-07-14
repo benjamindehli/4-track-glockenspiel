@@ -8,5 +8,5 @@
 dmse_add_plugin(FourTrackGlockenspiel
     PRODUCT_NAME "4-track Glockenspiel"
     PLUGIN_CODE  Gl4t
-    VERSION      0.1.0
+    VERSION      2.0.0
 )
