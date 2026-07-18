@@ -4,7 +4,7 @@ A glockenspiel recorded on to cassette tape and played back at half speed and no
 
 ## Release notes
 
-### Version 2.0.0 (2026-07-18)
+### Version 2.0.0 (2026-07-19)
 
 - Added a plugin version. See the section "The plugin version".
 
