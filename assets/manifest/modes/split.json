@@ -1326,7 +1326,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "normal-speed_volume",
+            "label": "Volume normal speed",
             "valueType": "float",
             "min": 0.0,
             "max": 2.0,
@@ -1357,7 +1357,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "normal-speed_lfo-depth",
+            "label": "LFO depth normal speed",
             "valueType": "float",
             "min": 0.0,
             "max": 1.0,
@@ -1388,7 +1388,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "normal-speed_lfo-rate",
+            "label": "LFO rate normal speed",
             "valueType": "float",
             "min": 1.0,
             "max": 9.0,
@@ -1419,7 +1419,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "half-speed_volume",
+            "label": "Volume half speed",
             "valueType": "float",
             "min": 0.0,
             "max": 2.0,
@@ -1450,7 +1450,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "half-speed_lfo-depth",
+            "label": "LFO depth half speed",
             "valueType": "float",
             "min": 0.0,
             "max": 1.0,
@@ -1481,7 +1481,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "half-speed_lfo-rate",
+            "label": "LFO rate half speed",
             "valueType": "float",
             "min": 1.0,
             "max": 9.0,
@@ -1512,7 +1512,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "echo_mix",
+            "label": "Echo mix",
             "valueType": "percent",
             "min": 0.0,
             "max": 100.0,
@@ -1544,7 +1544,7 @@
               "width": 41,
               "height": 41
             },
-            "label": "reverb_mix",
+            "label": "Reverb mix",
             "valueType": "percent",
             "min": 0.0,
             "max": 100.0,
