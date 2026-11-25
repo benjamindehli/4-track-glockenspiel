@@ -4,7 +4,7 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://benjamindehli.github.io/4-track-glockenspiel/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <image:image>
       <image:loc>https://benjamindehli.github.io/4-track-glockenspiel/img/screenshots-4-track-glockenspiel.webp</image:loc>
     </image:image>
@@ -26,7 +26,7 @@
   </url>
   <url>
     <loc>https://benjamindehli.github.io/4-track-glockenspiel/video/</loc>
-    <lastmod>2026-11-20</lastmod>
+    <lastmod>2026-11-25</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/8g-XCw91hSc/hqdefault.jpg</video:thumbnail_loc>
       <video:title>4-track Glockenspiel - Sound Examples</video:title>
